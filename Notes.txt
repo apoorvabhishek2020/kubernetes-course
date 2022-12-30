@@ -1,0 +1,4 @@
+Openshift Ingress URL
+http://my-app-apoorvabhishek2020-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com
+http://smartnotes.apoorvabhishek2020-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com:30080
+
