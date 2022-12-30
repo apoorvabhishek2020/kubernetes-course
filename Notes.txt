@@ -6,3 +6,5 @@ Command to create cluster with config file:
 kind create cluster --name apoorv --config=kind-config.yaml 
 kubectl config get-contexts
 kubectl config use-context kind-apoorv
+kubectl get po --show-labels
+kubectl get po --show-labels -l release=0 
