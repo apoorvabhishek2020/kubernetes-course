@@ -8,3 +8,4 @@ kubectl config get-contexts
 kubectl config use-context kind-apoorv
 kubectl get po --show-labels
 kubectl get po --show-labels -l release=0 
+richardchesterwood/k8s-fleetman-queue:release1-multi port 8161, u-admin p- admin, expose 30010
